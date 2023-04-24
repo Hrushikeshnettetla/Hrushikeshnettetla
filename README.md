@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nettelta hrushikesh
 ===========================================================================================================================================
 
-I am a Data Analyst
+I am a Data Scientist
 -------------------
 
-I am a Data Analyst with strong educational background in statistics, mathematics and working broadly on excel. I've started learning to code in python, SQL and NOSQL. I've have been learning this program from past 2years. And very much interested in Data science I have some experience working with some personal projects. And very much interested to learn new tools and technologies as needed and stay current with the latest industry trends.
+I am a Data Scientist with strong educational background in statistics, mathematics and working broadly on excel. I've started learning to code in python, SQL and NOSQL. I've have been learning this program from past 2years. And very much interested in Data science I have some experience working with some personal projects. And very much interested to learn new tools and technologies as needed and stay current with the latest industry trends.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [hrushikeshnethatla123@gmail.com](mailto:hrushikeshnethatla123@gmail.com)
